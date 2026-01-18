@@ -49,7 +49,7 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Sameera Watharkar" target="_blank">
+  <a href="https://www.linkedin.com/in/sameera-w-31385436b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fortenthstudy@gmail.com">

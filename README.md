@@ -62,8 +62,8 @@ CanteenEase is a **conceptual web-based solution** designed to address common ch
 ### 🎥 Project Walkthrough
 
 <p align="center">
-  <a href="https://youtu.be/wcPIpluSchY">
-    <img src="https://youtu.be/wcPIpluSchY.jpg" alt="Watch the video" />
+  <a href="https://www.youtu.be/wcPIpluSchY">
+    <img src="https://img.youtube.com/wcPIpluSchY.jpg" alt="Watch the video" />
   </a>
 </p>
 ---

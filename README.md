@@ -59,6 +59,13 @@ CanteenEase is a **conceptual web-based solution** designed to address common ch
 - Better organization of user interactions  
 - Exposure to full-stack development workflows  
 
+### 🎥 Project Walkthrough
+
+<p align="center">
+  <a href="https://youtu.be/wcPIpluSchY">
+    <img src="https://youtu.be/wcPIpluSchY.jpg" alt="Watch the video" />
+  </a>
+</p>
 ---
 
 ## 2️⃣ Nestify – Student Accommodation Platform  

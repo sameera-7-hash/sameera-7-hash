@@ -157,3 +157,5 @@ Detailed implementations are intentionally not shared publicly.
 </p>
 
 <p align="center">✨ Thanks for visiting! Feel free to explore my repositories and connect 😊</p>
+
+<img src="https://camo.githubusercontent.com/2436d81233f5792fd0f264fd57041b0e01e7d27b18bdbb0f61303e4af59e6c9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f746572" width="100%" />

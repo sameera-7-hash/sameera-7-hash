@@ -1,90 +1,48 @@
 <p align="center">
-
-<img src="assets/banner.png">
-
+  <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">
-
-Hi 👋 I'm Sameera Watharkar
-
-</h1>
+<h1 align="center">Hi 👋, I'm Sameera Watharkar</h1>
 
 <h3 align="center">
-
-Computer Engineering Student at VIT Pune
-
+Computer Engineering Student at VIT Pune <br>
 Full Stack Developer • AI Enthusiast • Problem Solver
-
 </h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Always+Learning+Something+New!" />
+</p>
 
+<p align="center">
 <a href="https://github.com/sameera-7-hash">
-<img src="https://komarev.com/ghpvc/?username=sameera-7-hash&style=for-the-badge&color=00E676">
+<img src="https://komarev.com/ghpvc/?username=sameera-7-hash&style=for-the-badge&color=00E676"/>
 </a>
 
 <a href="https://github.com/sameera-7-hash?tab=followers">
-<img src="https://img.shields.io/github/followers/sameera-7-hash?style=for-the-badge">
+<img src="https://img.shields.io/github/followers/sameera-7-hash?style=for-the-badge&color=00E676"/>
 </a>
 
 <a href="https://github.com/sameera-7-hash">
-<img src="https://img.shields.io/github/stars/sameera-7-hash?affiliations=OWNER&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/sameera-7-hash?style=for-the-badge&color=00E676"/>
 </a>
-
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Computer Engineering Student at **VIT Pune**
-
-💻 Passionate about building scalable software
-
-🌱 Currently learning
-
-- Data Structures & Algorithms
-- SQL
-- Flask
-- React
-- Git
-- Software Engineering
-
-⚡ Interested in
-
-- Artificial Intelligence
-- Web Development
-- Embedded Systems
-- Automation
-- Open Source
+- 🎓 B.Tech Computer Engineering student at **VIT Pune**
+- 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Embedded Systems**
+- 🌱 Currently learning **React**, **Flask**, **SQL**, **Git**, and **Data Structures & Algorithms**
+- 🚀 Building projects that solve real-world problems
+- 🤝 Open to internships, collaborations, and open-source contributions
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,sql"/>
-
-</p>
-
-## Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,flask,bootstrap,jquery"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,matlab"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,flask,bootstrap,jquery,git,github,vscode,arduino,matlab,mysql&perline=8"/>
 </p>
 
 ---
@@ -92,84 +50,72 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 # 🚀 Featured Projects
 
 ### 🍽️ CanteenEase
-A smart web-based canteen ordering platform that minimizes queues by enabling digital food ordering, real-time order tracking, and efficient order management.
+A smart web-based canteen ordering system that enables digital food ordering, real-time order tracking, and efficient order management to reduce waiting time during peak hours.
 
-**Tech:** `HTML` `CSS` `JavaScript` `System Design`
+**Tech Stack:** `HTML` `CSS` `JavaScript`
 
 ---
 
 ### 📚 BookHive
-A library management system that simplifies book inventory, user authentication, and borrowing workflows through an intuitive web interface.
+A Flask-based library management system featuring secure authentication, book management, and SQL database integration.
 
-**Tech:** `Python` `Flask` `SQL` `HTML` `CSS`
+**Tech Stack:** `Python` `Flask` `SQL`
 
 ---
 
 ### 🤖 Smart Pedestrian System
-An IoT-based pedestrian safety solution leveraging ESP32-CAM and sensors to improve road safety through intelligent monitoring.
+An IoT-powered pedestrian safety solution using ESP32-CAM and intelligent sensors for monitoring and automation.
 
-**Tech:** `ESP32` `Arduino` `Computer Vision` `IoT`
+**Tech Stack:** `ESP32` `Arduino` `IoT`
 
 ---
 
 ### 🦾 4-DOF Robotic Arm
-A MATLAB & Simulink-based robotic arm with PID control for precise movement, system modelling, and controller tuning.
+Designed and simulated a PID-controlled robotic arm using MATLAB & Simulink for precise motion control and system analysis.
 
-**Tech:** `MATLAB` `Simulink` `PID Control`
+**Tech Stack:** `MATLAB` `Simulink`
 
 ---
 
 ### 📊 Cinema Analytics Dashboard
-An interactive analytics dashboard providing insights into movie trends, ratings, and box-office performance using data visualization.
+An interactive analytics dashboard built using Google Looker Studio to visualize movie performance and business insights.
 
-**Tech:** `Google Looker Studio` `Data Analytics`
+**Tech Stack:** `Google Looker Studio`
 
 ---
 
-## 📈 GitHub Analytics
-
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameera-7-hash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameera-7-hash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sameera-7-hash&theme=tokyonight&hide_border=true" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
-
-<p align="center">
-
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true" />
-
-</p>
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sameera-w-31385436b">
-
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:sameera.1251070714@vit.edu">
-
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/sameera-7-hash">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
@@ -177,7 +123,9 @@ An interactive analytics dashboard providing insights into movie trends, ratings
 ---
 
 <p align="center">
+<i>💚 "Building, learning, and growing — one commit at a time."</i>
+</p>
 
-<i>"Learning something new every day, one commit at a time."</i>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:0D1117&height=120&section=footer"/>
 </p>

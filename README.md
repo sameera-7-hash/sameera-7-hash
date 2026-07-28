@@ -91,48 +91,59 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 
 # 🚀 Featured Projects
 
-## 🍽 CanteenEase
+### 🍽️ CanteenEase
+A smart web-based canteen ordering platform that minimizes queues by enabling digital food ordering, real-time order tracking, and efficient order management.
 
-Smart ordering system for college canteens.
-
-- Digital ordering
-- Queue reduction
-- Order management
-- Responsive UI
+**Tech:** `HTML` `CSS` `JavaScript` `System Design`
 
 ---
 
-## 📚 BookHive
+### 📚 BookHive
+A library management system that simplifies book inventory, user authentication, and borrowing workflows through an intuitive web interface.
 
-Library Management System
-
-- Flask
-- SQL
-- Authentication
-- CRUD
+**Tech:** `Python` `Flask` `SQL` `HTML` `CSS`
 
 ---
 
-## 🤖 Smart Pedestrian System
+### 🤖 Smart Pedestrian System
+An IoT-based pedestrian safety solution leveraging ESP32-CAM and sensors to improve road safety through intelligent monitoring.
 
-IoT-based pedestrian safety solution using ESP32.
-
-- ESP32 CAM
-- Sensors
-- Computer Vision
+**Tech:** `ESP32` `Arduino` `Computer Vision` `IoT`
 
 ---
 
-## 🦾 4 DOF Robotic Arm
+### 🦾 4-DOF Robotic Arm
+A MATLAB & Simulink-based robotic arm with PID control for precise movement, system modelling, and controller tuning.
 
-PID-controlled robotic arm designed in MATLAB & Simulink.
+**Tech:** `MATLAB` `Simulink` `PID Control`
 
 ---
 
-## 📊 Cinema Analytics Dashboard
+### 📊 Cinema Analytics Dashboard
+An interactive analytics dashboard providing insights into movie trends, ratings, and box-office performance using data visualization.
 
-Interactive dashboard built using Google Looker Studio.
+**Tech:** `Google Looker Studio` `Data Analytics`
 
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sameera-7-hash&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameera-7-hash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sameera-7-hash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 ---
 
 # 📈 GitHub Stats

@@ -138,6 +138,22 @@ An interactive analytics dashboard providing insights into movie trends, ratings
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sameera-7-hash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
+
+<p align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sameera-7-hash&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true" />
+
+</p>
 ---
 
 # 🌐 Connect

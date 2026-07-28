@@ -115,14 +115,12 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 </a>
 
 &nbsp;&nbsp;&nbsp;
-
+<p align="center">
 <a href="https://github.com/sameera-7-hash">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 </p>
-
----
+</p>
 
 <p align="center">
 <i>💚 "Building, learning, and growing — one commit at a time."</i>

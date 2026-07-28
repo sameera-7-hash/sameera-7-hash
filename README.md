@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/sameera-7-hash/sameera-7-hash/main/assets/banner.png" width="100%" alt="Banner">
+</p>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sameera Watharkar</h1>

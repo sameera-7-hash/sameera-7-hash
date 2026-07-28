@@ -146,24 +146,6 @@ An interactive analytics dashboard providing insights into movie trends, ratings
 </p>
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sameera-7-hash&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameera-7-hash&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🌐 Connect
 
 <p align="center">

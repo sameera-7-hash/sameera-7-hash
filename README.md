@@ -123,20 +123,6 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 ---
 
-# 🐍 GitHub Activity
-
-<div align="center">
-
-  <img src="./assets/current-streak.svg" width="100%" alt="Current GitHub contribution streak">
-
-  <br>
-  <br>
-
-  <img src="./assets/build-pulse.svg" width="100%" alt="Animated developer activity pulse">
-
-</div>
-
-
 <div align="center">
 
 <p align="center">

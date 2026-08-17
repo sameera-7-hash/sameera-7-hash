@@ -10,7 +10,7 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Always+Learning+Something+New!" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Deve[...]
 </p>
 
 <p align="center">
@@ -112,10 +112,30 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Git[...]
+  
   <img height="170" src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph">
+</p>
+
+---
+
+# 🐍 GitHub Activity
+
+<div align="center">
+
+  <img src="./assets/current-streak.svg" width="100%" alt="Current GitHub contribution streak">
+
+  <br>
+  <br>
+
+  <img src="./assets/build-pulse.svg" width="100%" alt="Animated developer activity pulse">
+
+</div>
+
 
 <div align="center">
 

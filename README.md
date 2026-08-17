@@ -113,7 +113,10 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 <p align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Git[...]>
+  <img 
+  height="170" 
+  src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Git[...]"
+  />
 </p>
 
 <!--  <img height="170" 

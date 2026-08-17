@@ -139,7 +139,13 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/sameera-7-hash/sameera-7-hash/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated GitHub contribution snake">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sameera-7-hash/sameera-7-hash/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 </div>
 

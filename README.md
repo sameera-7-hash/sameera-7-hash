@@ -112,10 +112,12 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Git[...]
-  
-  <img height="170" src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Git[...]>
 </p>
+
+<!--  <img height="170" 
+src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak">-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph">

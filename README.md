@@ -136,9 +136,6 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 </div>
 
----
-
-# 🐍 Contribution Trail
 
 <div align="center">
 
@@ -153,7 +150,7 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 </div>
 
----
+
 
 # 🌐 Connect With Me
 <div style="display: flex; gap: 14px; align-items: center;">
@@ -184,7 +181,7 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 </p>
 </div>
----
+
 
 <p align="center">
   <i>💚 "Building, learning, and growing — one commit at a time."</i>

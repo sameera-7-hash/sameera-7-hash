@@ -156,39 +156,34 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 ---
 
 # 🌐 Connect With Me
-
+<div style="display: flex; gap: 14px; align-items: center;">
 <p align="center">
 
   <a href="mailto:sameera.1251070714@vit.edu" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail">
   </a>
 
-  &nbsp;&nbsp;
-
   <a href="https://github.com/sameera-7-hash" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub">
   </a>
 
-  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/sameera-w-31385436b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn">
   </a>
 
-  &nbsp;&nbsp;
 
   <a href="YOUR_LEETCODE_URL" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode">
   </a>
 
-  &nbsp;&nbsp;
 
   <a href="#" title="Discord: starstruck_sou1">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" alt="Discord">
   </a>
 
 </p>
-
+</div>
 ---
 
 <p align="center">

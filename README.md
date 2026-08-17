@@ -102,25 +102,25 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div style="display: flex; gap: 14px; align-items: center;">
 
-<a href="https://www.linkedin.com/in/sameera-w-31385436b">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="mailto:sameera.1251070714@vit.edu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail">
+  </a>
 
-&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sameera-7-hash" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub">
+  </a>
 
-<a href="mailto:sameera.1251070714@vit.edu">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn">
+  </a>
 
-&nbsp;&nbsp;&nbsp;
-<p align="center">
-<a href="https://github.com/sameera-7-hash">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-</p>
-</p>
+  <a href="YOUR_LEETCODE_URL" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode">
+  </a>
+
+</div>
 
 <p align="center">
 <i>💚 "Building, learning, and growing — one commit at a time."</i>

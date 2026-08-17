@@ -98,6 +98,48 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true"/>
 </p>
 
+## Core technology stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Most_used-C%2B%2B%20%7C%20Java%20%7C%20TypeScript%20%7C%20React-155E75?style=for-the-badge&labelColor=0F172A" alt="Most used technologies" />
+  <br />
+  <br />
+  <img src="./assets/tech-stack-loop.svg" width="100%" alt="Animated core technology stack" />
+  <br />
+  <br />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ts,js,kotlin,html,css&theme=dark" alt="Languages" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,firebase,mongodb,mysql,supabase&theme=dark" alt="Development stack" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,tailwind,figma,postman,vercel,unity&theme=dark" alt="Tools" />
+</div>
+
+## GitHub activity
+
+<div align="center">
+  <img src="./assets/current-streak.svg" width="100%" alt="Current GitHub contribution streak" />
+  <br />
+  <br />
+  <img src="./assets/build-pulse.svg" width="100%" alt="Animated developer activity pulse" />
+</div>
+
+## Contribution trail
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sameera-7-hash/sameera-7-hash/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=/sameera-7-hash&label=Profile+views&color=0ea5a4&style=flat-square" alt="Profile views" />
+  <br />
+</div>
+
 ---
 
 # 🌐 Connect With Me

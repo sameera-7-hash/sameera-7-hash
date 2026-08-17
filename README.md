@@ -112,12 +112,16 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
     <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub">
   </a>
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/sameera-w-31385436b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn">
   </a>
 
-  <a href="YOUR_LEETCODE_URL" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode">
+  </a>
+
+  <a href="#" title="Discord: starstruck_sou1">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" alt="Discord">
   </a>
 
 </div>

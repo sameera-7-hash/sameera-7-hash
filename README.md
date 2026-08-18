@@ -124,7 +124,6 @@ src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph">
 </p>
 
----
 
 <div align="center">
 

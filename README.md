@@ -117,10 +117,8 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
   src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 <br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph">
-</p>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="95%" alt="GitHub Activity Graph">
 
 <p align="center">
   <img

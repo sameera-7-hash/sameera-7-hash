@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" width="100%" alt="Banner">
+  <img src="assets/banner.jpg" width="1920" height="600" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sameera Watharkar</h1>

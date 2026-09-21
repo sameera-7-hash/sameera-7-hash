@@ -2,7 +2,11 @@
   <img src="assets/banner.jpg" width="1920" height="600" alt="Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sameera Watharkar</h1>
+
+<h1 align="center">Hi 👋, I'm Sameera Watharkar
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:0D1117&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Sameera+Watharkar&textBg=false&fontSize=70&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&stroke=000000&strokeWidth=2&desc=Computer+Engineering+Student+at+VIT+Pune&descSize=18&descAlign=47&descAlignY=64)" width="100%" alt="Header">
+  
+/h1>
 
 <h3 align="center">
 Computer Engineering Student at VIT Pune <br>

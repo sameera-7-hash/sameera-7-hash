@@ -9,8 +9,28 @@ Computer Engineering Student at VIT Pune <br>
 Full Stack Developer • AI Enthusiast • Problem Solver
 </h3>
 
+<div align="center" style="margin: 14px 0 18px;">
+  <svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated black wave banner">
+    <defs>
+      <linearGradient id="waveGlow" x1="0%" x2="100%" y1="0%" y2="0%">
+        <stop offset="0%" stop-color="#00E676" stop-opacity="0.95"/>
+        <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.82"/>
+        <stop offset="100%" stop-color="#00E676" stop-opacity="0.95"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="90" fill="#050505" rx="18"/>
+    <path d="M0 48 C80 24, 150 24, 220 48 S380 72, 460 48 S640 22, 720 48 S900 72, 980 48 S1140 20, 1200 42 L1200 90 L0 90 Z" fill="#0E0E0E" opacity="0.95"/>
+    <path d="M0 52 C95 18, 190 18, 270 48 S465 78, 550 52 S740 18, 820 48 S1015 78, 1085 52 S1165 24, 1200 44" stroke="url(#waveGlow)" stroke-width="4" fill="none">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 20 0; 0 0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 64 C110 34, 200 34, 290 64 S490 96, 580 64 S760 30, 860 64 S1060 96, 1160 64" stroke="#FFFFFF" stroke-width="2.5" opacity="0.75" fill="none">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -22 0; 0 0" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+  </svg>
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing animation" />
 </p>
 
 <p align="center">

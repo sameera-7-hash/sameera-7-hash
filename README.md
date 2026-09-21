@@ -2,9 +2,8 @@
   <img src="assets/banner.jpg" width="1920" height="600" alt="Banner">
 </p>
 
-
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:0D1117&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Sameera+Watharkar&textBg=false&fontSize=70&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&stroke=000000&strokeWidth=2&desc=Computer+Engineering+Student+at+VIT+Pune&descSize=18&descAlign=47&descAlignY=64)" width="100%" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Sameera+Watharkar&textBg=false&fontSize=70&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&stroke=000000&strokeWidth=2&desc=Computer+Engineering+Student+at+VIT+Pune&descSize=18&descAlign=47&descAlignY=64" width="100%" alt="Header">
 </p>
 
 <h3 align="center">
@@ -33,7 +32,7 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -159,8 +158,6 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
   <img src="https://komarev.com/ghpvc/?username=sameera-7-hash&label=Profile+views&color=0ea5a4&style=flat-square" alt="Profile views">
 
 </div>
-
-
 
 # 🌐 Connect With Me
 <div style="display: flex; gap: 14px; align-items: center;">

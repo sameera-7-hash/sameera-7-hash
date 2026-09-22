@@ -2,8 +2,9 @@
   <img src="assets/banner.jpg" width="1920" height="600" alt="Banner">
 </p>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=true&text=Sameera+Watharkar&textBg=false&fontSize=60&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&stroke=000000&strokeWidth=2&desc=Computer+Engineering+Student+at+VIT+Pune&descSize=18&descAlign=47&descAlignY=64" width="100%" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:ffffff&height=220&section=header&text=Sameera%20Watharkar&fontSize=72&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header">
 </p>
 
 <h3 align="center">

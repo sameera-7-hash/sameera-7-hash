@@ -40,95 +40,191 @@ Full Stack Developer • AI Enthusiast • Problem Solver
   <a href="https://github.com/sameera-7-hash">
     <img src="https://komarev.com/ghpvc/?username=sameera-7-hash&style=for-the-badge&color=00E676" alt="Profile Views">
   </a>
-
   <a href="https://github.com/sameera-7-hash?tab=followers">
     <img src="https://img.shields.io/github/followers/sameera-7-hash?style=for-the-badge&color=00E676" alt="GitHub Followers">
   </a>
-
   <a href="https://github.com/sameera-7-hash?tab=repositories">
     <img src="https://img.shields.io/github/stars/sameera-7-hash?style=for-the-badge&color=00E676" alt="GitHub Stars">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-00E676?style=for-the-badge&labelColor=0D1117" alt="Open to internships">
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 B.Tech Computer Engineering student at **VIT Pune**
-- 💻 Passionate about **Full Stack Development**, **Artificial Intelligence**, and **Embedded Systems**
-- 🌱 Currently learning **React**, **Flask**, **SQL**, **Git**, and **Data Structures & Algorithms**
-- 🚀 Building projects that solve real-world problems
-- 🤝 Open to internships, collaborations, and open-source contributions
+```text
+> name       : Sameera Watharkar
+> studying   : B.Tech Computer Engineering @ VIT Pune (CGPA 8.8)
+> building   : privacy tools, fraud-detection AI, healthcare systems
+> leading    : Web Development @ Computer Student Association (CSA)
+> status     : 🟢 actively looking for internships
+```
+
+- 🔐 I build **AI products with a safety angle**: prompt privacy, adversarial fraud testing, encrypted health records
+- 🎨 I draw and design too, so my frontends are built to **look as good as they work**
+- 🥋 5+ years of martial arts, which is where my discipline comes from
+- 🤝 Open to **internships**, **collaborations** and **open-source contributions**
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js&perline=8" alt="Programming Languages">
-</p>
+**Languages**
 
-### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,js,ts,html,css&perline=8" alt="Languages">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,react&perline=8" alt="Web Development">
-</p>
+**Frontend**
 
-### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma&perline=8" alt="Frontend">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,mysql&perline=8" alt="Backend and Databases">
-</p>
+**Backend & AI**
 
-### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,express,pandas,numpy&perline=8" alt="Backend and AI">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,matlab&perline=8" alt="Tools and Platforms">
-</p>
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,elasticsearch,supabase,firebase&perline=8" alt="Databases">
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,cmake&perline=8" alt="Tools">
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🍽️ CanteenEase
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A smart web-based canteen ordering system that enables digital food ordering, real-time order tracking, and efficient order management to reduce waiting time during peak hours.
+### 🛡️ Veil
+**Privacy-first AI prompt & document protection**
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+A Chrome extension and web app that detects and blocks sensitive data *before* it reaches an AI chatbot, creates redactions that still preserve the task, and scans documents **locally** so nothing leaves the device.
+
+- 🧠 Detection uses context windows and **Shannon entropy**
+- 📏 Evaluated on a **200-case benchmark**
+- 📄 Local scanning of PDF, Word, Excel and images (OCR)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+[🔗 Repository](https://github.com/sameera-7-hash/Veil) &nbsp;•&nbsp; <!-- TODO: add demo link -->[🌐 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ Clinch
+**Adversarially tested AI fraud-detection platform**
+
+Instead of only detecting fraud, Clinch *attacks itself*. Synthetic fraud agents probe the system, and the findings feed back into the detectors.
+
+- 🧩 Layered pipeline: **rules + ML + anomaly + graph analysis**
+- 🤖 **RAG/LLM reasoning** and risk fusion for the final score
+- 🔁 Analyst feedback and attack retesting to expose blind spots
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5C00?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[🔗 Repository](https://github.com/sameera-7-hash/Clinch) &nbsp;•&nbsp; <!-- TODO: add demo link -->[🌐 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏥 Beacon
+**Healthcare guidance, doctor discovery & patient-record system**
+
+A role-based platform for **patients, doctors and nurses** with condition triage, emergency guidance, live appointment-slot checks, and **encrypted, tamper-evident patient records**. The backend is written in modern **C++17** using OOP, design patterns, generics, queues, heaps, stacks and hash maps.
+
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL_3-721412?style=flat-square&logo=openssl&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-00E676?style=flat-square&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[🔗 Repository](https://github.com/sameera-7-hash/Beacon) &nbsp;•&nbsp; <!-- TODO: add demo link -->[🌐 Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+<!-- TODO: add a screenshot or GIF for each project, e.g.
+<p align="center"><img src="assets/veil-demo.gif" width="80%" alt="Veil demo"></p>
+-->
+
+<details>
+<summary><b>📦 More projects</b> (click to expand)</summary>
+<br>
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🍽️ **CanteenEase** | Canteen ordering system with real-time order tracking to cut peak-hour waiting | `HTML` `CSS` `JavaScript` |
+| 📚 **BookHive** | Flask library management system with secure auth and SQL integration | `Python` `Flask` `SQL` |
+| 🤖 **Smart Pedestrian System** | IoT pedestrian safety solution using ESP32-CAM and sensors | `ESP32` `Arduino` `IoT` |
+| 🦾 **4-DOF Robotic Arm** | PID-controlled robotic arm designed and simulated for precise motion control | `MATLAB` `Simulink` |
+| 📊 **Cinema Analytics Dashboard** | Interactive dashboard visualising movie performance and business insights | `Looker Studio` |
+
+</details>
 
 ---
 
-### 📚 BookHive
+# 🌍 Open Source
 
-A Flask-based library management system featuring secure authentication, book management, and SQL database integration.
+<table>
+<tr>
+<td width="80">
+<h1 align="center">🌸</h1>
+</td>
+<td>
 
-**Tech Stack:** `Python` `Flask` `SQL`
+**GirlScript Summer of Code 2026** (Apr – Jun 2026)
+
+Contributed to open-source repositories through a nationally recognised student developer program, working with version control, code review and real collaborative workflows.
+
+- ✅ **2 merged pull requests**
+- ⚡ Improved project **issue-resolution speed by 25%**
+- 💬 Built a **chatbot** contributed back to the community
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 Smart Pedestrian System
+# 🧭 Experience & Leadership
 
-An IoT-powered pedestrian safety solution using ESP32-CAM and intelligent sensors for monitoring and automation.
-
-**Tech Stack:** `ESP32` `Arduino` `IoT`
-
----
-
-### 🦾 4-DOF Robotic Arm
-
-Designed and simulated a PID-controlled robotic arm using MATLAB & Simulink for precise motion control and system analysis.
-
-**Tech Stack:** `MATLAB` `Simulink`
+| Role | Where | What I do |
+|---|---|---|
+| 🌐 **Head of Web Development** | Computer Student Association (CSA) | Lead a team of web developers, review code and coordinate deployments for club sites and student portals |
+| 🎨 **UI/UX Design Coordinator** | Abhivriddhi, Student Training & Development Committee | Design event graphics, posters and branding in Figma and Canva, and manage creative workflows |
+| 📣 **Multimedia & Sports Volunteer** | Student Council, VIT Pune | Plan and run college-level events, helping boost attendance |
 
 ---
 
-### 📊 Cinema Analytics Dashboard
+# 🎯 Currently
 
-An interactive analytics dashboard built using Google Looker Studio to visualize movie performance and business insights.
-
-**Tech Stack:** `Google Looker Studio`
+- 🔭 Building AI-powered products with security and reliability in mind
+- 📚 Going deeper on **LangChain / LangGraph**, system design and DSA
+- 💼 **Looking for internships** in full stack, AI/ML or software engineering
 
 ---
 
@@ -136,7 +232,7 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 <div align="center">
   <img
-  height="170" 
+  height="170"
   src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 <br>
@@ -153,43 +249,28 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 
 </div>
 
-<div align="center">
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=sameera-7-hash&label=Profile+views&color=0ea5a4&style=flat-square" alt="Profile views">
-
-</div>
+---
 
 # 🌐 Connect With Me
-<div style="display: flex; gap: 14px; align-items: center;">
-<p align="center">
 
+<p align="center">
   <a href="mailto:sameera.1251070714@vit.edu" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail">
   </a>
-
+  &nbsp;
   <a href="https://github.com/sameera-7-hash" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub">
   </a>
-
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/sameera-w-31385436b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn">
   </a>
-
-
-  <a href="YOUR_LEETCODE_URL" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode">
-  </a>
-
-
+  &nbsp;
+  <!-- Placeholder kept for later: <a href="YOUR_LEETCODE_URL"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode"></a> -->
   <a href="#" title="Discord: starstruck_sou1">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="42" alt="Discord">
   </a>
-
 </p>
-</div>
-
 
 <p align="center">
   <i>💚 "Building, learning, and growing — one commit at a time."</i>
@@ -198,3 +279,4 @@ An interactive analytics dashboard built using Google Looker Studio to visualize
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:0D1117&height=120&section=footer" width="100%" alt="Footer">
 </p>
+</param>

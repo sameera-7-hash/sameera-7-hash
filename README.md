@@ -1,13 +1,43 @@
-<div align="center"><img src="assets/banner.jpg" width="100%" alt="Sameera Watharkar — portfolio banner">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3" width="100%" alt="">Sameera Watharkar
-Computer Engineering Student · Full-Stack Developer · AI Enthusiast
-<p>
-  <a href="https://github.com/sameera-7-hash"><img src="https://komarev.com/ghpvc/?username=sameera-7-hash&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"></a>
-  <a href="https://github.com/sameera-7-hash?tab=followers"><img src="https://img.shields.io/github/followers/sameera-7-hash?style=flat-square&color=8b5cf6&label=FOLLOWERS" alt="GitHub followers"></a>
-  <a href="https://github.com/sameera-7-hash?tab=repositories"><img src="https://img.shields.io/github/stars/sameera-7-hash?style=flat-square&color=8b5cf6&label=STARS" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-16a34a?style=flat-square" alt="Open to internships">
-</p>GitHub · LinkedIn · Email
-</div>01 — A little about me
+<p align="center">
+  <img src="assets/banner.jpg" width="1920" height="600" alt="Banner">
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:ffffff&height=220&section=header&text=Sameera%20Watharkar&fontSize=72&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header">
+</p><h3 align="center">
+Computer Engineering Student at VIT Pune <br>
+Full Stack Developer • AI Enthusiast • Problem Solver
+</h3><div align="center" style="margin: 14px 0 18px;">
+  <svg width="100%" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated black wave banner">
+    <defs>
+      <linearGradient id="waveGlow" x1="0%" x2="100%" y1="0%" y2="0%">
+        <stop offset="0%" stop-color="#00E676" stop-opacity="0.95"/>
+        <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.82"/>
+        <stop offset="100%" stop-color="#00E676" stop-opacity="0.95"/>
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="90" fill="#050505" rx="18"/>
+    <path d="M0 48 C80 24, 150 24, 220 48 S380 72, 460 48 S640 22, 720 48 S900 72, 980 48 S1140 20, 1200 42 L1200 90 L0 90 Z" fill="#0E0E0E" opacity="0.95"/>
+    <path d="M0 52 C95 18, 190 18, 270 48 S465 78, 550 52 S740 18, 820 48 S1015 78, 1085 52 S1165 24, 1200 44" stroke="url(#waveGlow)" stroke-width="4" fill="none">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 20 0; 0 0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 64 C110 34, 200 34, 290 64 S490 96, 580 64 S760 30, 860 64 S1060 96, 1160 64" stroke="#FFFFFF" stroke-width="2.5" opacity="0.75" fill="none">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -22 0; 0 0" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+  </svg>
+</div><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG">
+</p><p align="center">
+  <a href="https://github.com/sameera-7-hash">
+    <img src="https://komarev.com/ghpvc/?username=sameera-7-hash&style=for-the-badge&color=00E676" alt="Profile Views">
+  </a>
+  <a href="https://github.com/sameera-7-hash?tab=followers">
+    <img src="https://img.shields.io/github/followers/sameera-7-hash?style=for-the-badge&color=00E676" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/sameera-7-hash?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sameera-7-hash?style=for-the-badge&color=00E676" alt="GitHub Stars">
+  </a>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-00E676?style=for-the-badge&labelColor=0D1117" alt="Open to internships">
+</p>01 — A little about me
 I'm a B.Tech Computer Engineering student at VIT Pune, interested in building useful software across full-stack development, AI, security and connected systems.
 
 I enjoy working across the stack — from understanding the problem and designing the interface to implementing the underlying logic. I also care about the details that make a product feel considered, not just functional.
@@ -97,11 +127,11 @@ Role	Organisation	Focus
 - 📚 Strengthening my understanding of LangChain, LangGraph, system design and DSA.
 - 💼 Looking for internship opportunities in full-stack development, AI/ML and software engineering.
 07 — GitHub activity
-<div align="center"><img width="49%" src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sameera-7-hash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub statistics">
+<div align="center"><img src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true&background=0D1117" width="85%" alt="GitHub streak">
 
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub activity graph"><img width="96%" src="https://raw.githubusercontent.com/sameera-7-hash/sameera-7-hash/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"></div>08 — Let's connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="GitHub activity graph">
+<img src="https://raw.githubusercontent.com/sameera-7-hash/sameera-7-hash/gh-pages/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake"></div>08 — Let's connect
 <div align="center"><a href="mailto:sameera.1251070714@vit.edu"><img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"></a>  
 <a href="https://github.com/sameera-7-hash"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"></a>  
 <a href="https://www.linkedin.com/in/sameera-w-31385436b/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"></a>  

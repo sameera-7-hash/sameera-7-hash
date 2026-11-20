@@ -138,7 +138,8 @@ Role	Organisation	Focus
 <a href="https://discord.com/users/"><img src="https://cdn.simpleicons.org/discord/5865F2" width="42" alt="Discord"></a>
 
 Building, learning, and growing — one commit at a time.
-</div>
+</div><p align="center">
+
 </p><p align="center">
   <img src="https://64.media.tumblr.com/9318bc687ba2738520c57197c3148456/6eabe8cd53a3e20b-8d/s2048x3072/0ba7a44b1f752273bd91e15d67d1d6711f082404.gifv" width="100%" alt="Animated divider">
 </p>

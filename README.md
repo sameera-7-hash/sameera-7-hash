@@ -32,11 +32,6 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-00E676?style=for-the-badge&labelColor=0D1117" alt="Open to internships">
-  <img src="https://img.shields.io/badge/VIT%20PUNE-CGPA%208.8-00E676?style=for-the-badge&labelColor=0D1117" alt="CGPA 8.8">
-</p>
-
-<p align="center">
   <a href="https://github.com/sameera-7-hash"><img src="https://komarev.com/ghpvc/?username=sameera-7-hash&style=for-the-badge&color=00E676&label=PROFILE+VIEWS" alt="Profile Views"></a>
   <a href="https://github.com/sameera-7-hash?tab=followers"><img src="https://img.shields.io/github/followers/sameera-7-hash?style=for-the-badge&color=00E676&labelColor=0D1117" alt="GitHub Followers"></a>
   <a href="https://github.com/sameera-7-hash?tab=repositories"><img src="https://img.shields.io/github/stars/sameera-7-hash?style=for-the-badge&color=00E676&labelColor=0D1117" alt="GitHub Stars"></a>

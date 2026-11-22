@@ -34,7 +34,6 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-00E676?style=for-the-badge&labelColor=0D1117" alt="Open to internships">
   <img src="https://img.shields.io/badge/VIT%20PUNE-CGPA%208.8-00E676?style=for-the-badge&labelColor=0D1117" alt="CGPA 8.8">
-  <img src="https://img.shields.io/badge/TOP%204-VISHWAKARANDAK%20HACKATHON-00E676?style=for-the-badge&labelColor=0D1117" alt="Top 4 hackathon">
 </p>
 
 <p align="center">
@@ -56,7 +55,6 @@ const sameera = {
   obsessedWith: ["privacy-aware software", "adversarial testing", "reliable AI"],
   leading:      "Web Development @ Computer Student Association (CSA)",
   offDuty:      ["Wushu Sanda 🥋", "Taekwondo (purple belt)", "UI design & drawing 🎨"],
-  scholar:      "Deutsche Bank – Smile Foundation (merit-based, JEE + MHT CET)",
   status:       "🟢 actively looking for internships",
 };
 ```

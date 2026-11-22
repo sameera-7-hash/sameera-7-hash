@@ -224,40 +224,6 @@ flowchart LR
 
 </div>
 
-<!-- ═══════════════════════════ TROPHY CASE ═══════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:0D1117&height=3&section=header" width="100%" alt="">
-
-## 🏆 Trophy Case
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h1>🥇</h1>
-<b>Top 4</b><br>
-Vishwakarandak Hackathon<br>
-<sub>24 hrs · team of 3 · 100+ teams<br>built <b>Veil</b></sub>
-</td>
-<td align="center" width="25%">
-<h1>🎓</h1>
-<b>Deutsche Bank –<br>Smile Foundation Scholar</b><br>
-<sub>Merit-based, earned on<br>JEE + MHT CET performance</sub>
-</td>
-<td align="center" width="25%">
-<h1>🥈</h1>
-<b>Silver Medalist</b><br>
-Wushu Sanda<br>
-<sub>Full-contact combat<br>Khasdar Krida Mohatsav</sub>
-</td>
-<td align="center" width="25%">
-<h1>🥋</h1>
-<b>Purple Belt</b><br>
-Taekwondo<br>
-<sub>5+ years of martial arts</sub>
-</td>
-</tr>
-</table>
-
 <!-- ═══════════════════════════ OPEN SOURCE ═══════════════════════════ -->
 
 ## 🌸 Open Source &nbsp;·&nbsp; GirlScript Summer of Code 2026

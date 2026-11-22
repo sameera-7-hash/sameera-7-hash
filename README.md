@@ -23,123 +23,308 @@ Full Stack Developer • AI Enthusiast • Problem Solver
       <animateTransform attributeName="transform" type="translate" values="0 0; -22 0; 0 0" dur="5.5s" repeatCount="indefinite"/>
     </path>
   </svg>
-</div><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG">
-</p><p align="center">
-  <a href="https://github.com/sameera-7-hash">
-    <img src="https://komarev.com/ghpvc/?username=sameera-7-hash&style=for-the-badge&color=00E676" alt="Profile Views">
-  </a>
-  <a href="https://github.com/sameera-7-hash?tab=followers">
-    <img src="https://img.shields.io/github/followers/sameera-7-hash?style=for-the-badge&color=00E676" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/sameera-7-hash?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sameera-7-hash?style=for-the-badge&color=00E676" alt="GitHub Stars">
-  </a>
-</p><p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-00E676?style=for-the-badge&labelColor=0D1117" alt="Open to internships">
-</p>01 — A little about me
-I'm a B.Tech Computer Engineering student at VIT Pune, interested in building useful software across full-stack development, AI, security and connected systems.
+</div>
 
-I enjoy working across the stack — from understanding the problem and designing the interface to implementing the underlying logic. I also care about the details that make a product feel considered, not just functional.
-- 🔐 Interested in privacy-aware software, security and reliable AI systems.
-- 🎨 Enjoy UI design and creating clear, thoughtful user experiences.
-- 🥋 Practised martial arts for 5+ years.
-- 🤝 Open to internships, collaborations and open-source contributions.
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E676&center=true&vCenter=true&width=800&height=50&lines=I+build+AI+that+attacks+itself+%F0%9F%A7%A8;Privacy+tools+%C2%B7+Fraud+detection+%C2%B7+Healthcare+systems;Top+4+%40+Vishwakarandak+Hackathon+%F0%9F%8F%86;Purple+belt.+Wushu+Sanda+silver.+Ships+code+anyway+%F0%9F%A5%8B;Open+to+internships+%E2%80%94+let%27s+talk+%F0%9F%9A%80" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-00E676?style=for-the-badge&labelColor=0D1117" alt="Open to internships">
+  <img src="https://img.shields.io/badge/VIT%20PUNE-CGPA%208.8-00E676?style=for-the-badge&labelColor=0D1117" alt="CGPA 8.8">
+  <img src="https://img.shields.io/badge/TOP%204-VISHWAKARANDAK%20HACKATHON-00E676?style=for-the-badge&labelColor=0D1117" alt="Top 4 hackathon">
+</p>
+
+<p align="center">
+  <a href="https://github.com/sameera-7-hash"><img src="https://komarev.com/ghpvc/?username=sameera-7-hash&style=for-the-badge&color=00E676&label=PROFILE+VIEWS" alt="Profile Views"></a>
+  <a href="https://github.com/sameera-7-hash?tab=followers"><img src="https://img.shields.io/github/followers/sameera-7-hash?style=for-the-badge&color=00E676&labelColor=0D1117" alt="GitHub Followers"></a>
+  <a href="https://github.com/sameera-7-hash?tab=repositories"><img src="https://img.shields.io/github/stars/sameera-7-hash?style=for-the-badge&color=00E676&labelColor=0D1117" alt="GitHub Stars"></a>
+</p>
+
+<!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:0D1117&height=3&section=header" width="100%" alt="">
+
+## `$ whoami`
+
+```ts
+const sameera = {
+  role:         "B.Tech Computer Engineering @ VIT Pune (2025 → 2029)",
+  buildsWith:   ["Python", "C++17", "TypeScript", "React", "FastAPI"],
+  obsessedWith: ["privacy-aware software", "adversarial testing", "reliable AI"],
+  leading:      "Web Development @ Computer Student Association (CSA)",
+  offDuty:      ["Wushu Sanda 🥋", "Taekwondo (purple belt)", "UI design & drawing 🎨"],
+  scholar:      "Deutsche Bank – Smile Foundation (merit-based, JEE + MHT CET)",
+  status:       "🟢 actively looking for internships",
+};
+```
+
+<!-- ═══════════════════════════ NUMBERS ═══════════════════════════ -->
+
+## 📈 The Numbers
+
 <div align="center">
-  <img src="https://64.media.tumblr.com/949bdc729a9fe7edadbf660511dcab10/6eabe8cd53a3e20b-04/s2048x3072/13b064d6712459a4d04f6113ff76c20b8959546c.gifv" width="72%" alt="Decorative animated divider">
-</div>02 — Tech I work with
-<div align="center">Languages
+
+| 🎯 **95%** | 🧨 **+28.6 pts** | ⚙️ **24** | 🧪 **200** | 🏆 **Top 4** |
+|:---:|:---:|:---:|:---:|:---:|
+| recall on **Veil's** benchmark<br>at only 5% false positives | boost in **zero-day attack** detection from **Clinch's** feedback loop | REST **endpoints** in **Beacon's** C++17 backend | benchmark cases<br>used to evaluate **Veil** | of **100+ teams**<br>built in **24 hours** |
+
+</div>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:0D1117&height=3&section=header" width="100%" alt="">
+
+## 🚀 Flagship Projects
+
+### 🛡️ Veil &nbsp;·&nbsp; *Your prompts. Your secrets. Never leaves your device.*
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00E676,100:0D1117&height=70&section=header&text=Privacy-first%20AI%20prompt%20%26%20document%20protection&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" alt="Veil">
+
+> A Chrome extension + web app that **catches sensitive data before it reaches an AI chatbot**, then rewrites the prompt with *task-preserving redactions* so the AI still gets the job done.
+
+- 🔍 **Smart detection** using context windows + **Shannon entropy** to spot secrets that regex misses
+- 🎯 **95% recall · 5% false positives** on a **200-case benchmark**
+- 📄 **100% local scanning** of PDF, Word, Excel and images (OCR). Zero document content leaves the device
+- 🏆 **Top 4** at Vishwakarandak Hackathon, built in **24 hours** with a team of 3
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Chrome_MV3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome MV3">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<a href="https://github.com/sameera-7-hash/Veil"><img src="https://img.shields.io/badge/📂%20SOURCE-Veil-0D1117?style=for-the-badge&labelColor=00E676" alt="Veil source"></a>
+<!-- TODO: paste your live link, then uncomment -->
+<!-- <a href="YOUR_VEIL_LIVE_URL"><img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Veil-00E676?style=for-the-badge&labelColor=0D1117" alt="Veil live demo"></a> -->
+
+<details>
+<summary><b>⚡ How Veil works (click)</b></summary>
+
+```mermaid
+flowchart LR
+    A[You type a prompt<br/>or upload a file] --> B{Veil scans<br/>locally}
+    B -->|context + entropy<br/>+ OCR| C[Sensitive data found?]
+    C -->|No| D[Sent to AI as-is]
+    C -->|Yes| E[Task-preserving<br/>redaction]
+    E --> F[AI gets a safe prompt<br/>and still does the job]
+    style B fill:#00E676,color:#000
+    style E fill:#00E676,color:#000
+```
+
+</details>
+
+<br>
+
+### 🕵️ Clinch &nbsp;·&nbsp; *The fraud detector that attacks itself.*
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00E676,100:0D1117&height=70&section=header&text=Adversarially%20tested%20AI%20fraud-detection%20platform&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" alt="Clinch">
+
+> Most fraud systems wait to be fooled. **Clinch hires its own attackers.** Synthetic fraud agents probe the system, and every blind spot they find feeds back into the detectors.
+
+- 🧩 **Layered pipeline:** rules + ML + anomaly detection + graph analysis + **RAG/LLM reasoning**, fused into one risk score
+- 🧨 **+28.6 percentage points** on novel (zero-day) attack detection after the analyst feedback loop
+- 🔁 **Attack → detect → learn → retest**, so it keeps getting harder to fool
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/XGBoost-EB5C00?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/NetworkX-000000?style=for-the-badge" alt="NetworkX">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+</p>
+
+<a href="https://github.com/sameera-7-hash/Clinch"><img src="https://img.shields.io/badge/📂%20SOURCE-Clinch-0D1117?style=for-the-badge&labelColor=00E676" alt="Clinch source"></a>
+<!-- TODO: paste your live link, then uncomment -->
+<!-- <a href="YOUR_CLINCH_LIVE_URL"><img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Clinch-00E676?style=for-the-badge&labelColor=0D1117" alt="Clinch live demo"></a> -->
+
+```mermaid
+flowchart LR
+    A[🤖 Synthetic<br/>fraud agents] -->|attack| B[🛡️ Detection pipeline<br/>rules · ML · anomaly · graph · RAG/LLM]
+    B --> C[⚖️ Risk fusion<br/>one score]
+    C --> D[👩‍💻 Analyst feedback]
+    D -->|retrain + retest| A
+    style A fill:#b71c1c,color:#fff
+    style B fill:#00E676,color:#000
+    style C fill:#00E676,color:#000
+```
+
+<br>
+
+### 🏥 Beacon &nbsp;·&nbsp; *Healthcare that guides, finds, and protects.*
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00E676,100:0D1117&height=70&section=header&text=Healthcare%20guidance%2C%20doctor%20discovery%20%26%20patient%20records&fontSize=22&fontColor=ffffff&fontAlignY=50" width="100%" alt="Beacon">
+
+> A role-based platform for **patients, doctors and nurses** with condition triage, emergency guidance, live appointment-slot checks and **encrypted, tamper-evident patient records**. The whole backend is hand-written **C++17**.
+
+- ⚙️ **24 REST endpoints** served from a C++17 backend
+- 🔐 **Encrypted, tamper-evident records** with OpenSSL 3
+- 🧠 **OOP + design patterns + DSA** in action: queues, heaps, stacks, hash maps and generics
+
+<p>
+  <img src="https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++17">
+  <img src="https://img.shields.io/badge/OpenSSL_3-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
+  <img src="https://img.shields.io/badge/REST_APIs-00E676?style=for-the-badge&labelColor=0D1117" alt="REST APIs">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+<a href="https://github.com/sameera-7-hash/Beacon-OOP-CP"><img src="https://img.shields.io/badge/📂%20SOURCE-Beacon-0D1117?style=for-the-badge&labelColor=00E676" alt="Beacon source"></a>
+<!-- TODO: paste your live link, then uncomment -->
+<!-- <a href="YOUR_BEACON_LIVE_URL"><img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-Beacon-00E676?style=for-the-badge&labelColor=0D1117" alt="Beacon live demo"></a> -->
+
+<!-- TODO: add screenshots or GIFs for each project, e.g.
+<p align="center"><img src="assets/veil-demo.gif" width="85%" alt="Veil demo"></p>
+-->
+
+<details>
+<summary><b>📦 More projects</b> (click to expand)</summary>
+<br>
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🍽️ **CanteenEase** | Canteen ordering with real-time order tracking to cut peak-hour waiting | `HTML` `CSS` `JavaScript` |
+| 📚 **BookHive** | Flask library management system with authentication and SQL | `Python` `Flask` `SQL` |
+| 🚦 **Smart Pedestrian System** | IoT pedestrian-safety solution using ESP32-CAM and sensors | `ESP32` `Arduino` `IoT` |
+| 🦾 **4-DOF Robotic Arm** | PID-controlled robotic arm designed and simulated for precise motion | `MATLAB` `Simulink` |
+| 📊 **Cinema Analytics Dashboard** | Interactive dashboard exploring movie performance and business insights | `Looker Studio` |
+
+</details>
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:0D1117&height=3&section=header" width="100%" alt="">
+
+## 🧰 Loadout
+
+<div align="center">
+
+**Languages**<br>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,js,ts,html,css&perline=8" alt="C, C++, Python, Rust, JavaScript, TypeScript, HTML and CSS">
-Frontend & Design
+
+**Frontend & Design**<br>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma&perline=8" alt="React, Vite, Tailwind CSS and Figma">
-Backend, Data & AI
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,express,pandas,numpy&perline=8" alt="FastAPI, Flask, Django, Express, Pandas and NumPy">
-Databases
+
+**Backend, Data & AI**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,express,pandas,numpy,sklearn&perline=8" alt="FastAPI, Flask, Django, Express, Pandas, NumPy and scikit-learn">
+
+**Databases**<br>
 <img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,elasticsearch,supabase,firebase&perline=8" alt="SQLite, PostgreSQL, MongoDB, Elasticsearch, Supabase and Firebase">
-Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,cmake&perline=8" alt="Git, GitHub, GitLab, Docker, Linux, VS Code and CMake"></div>03 — Selected projects
+
+**Tools & Platforms**<br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,vscode,cmake&perline=8" alt="Git, GitHub, GitLab, Docker, Linux, VS Code and CMake">
+
+</div>
+
+<!-- ═══════════════════════════ TROPHY CASE ═══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:0D1117&height=3&section=header" width="100%" alt="">
+
+## 🏆 Trophy Case
+
 <table>
 <tr>
-<td width="50%" valign="top">🛡️ Veil
-Privacy-first AI prompt & document protection
-
-A Chrome extension and web app that detects and blocks sensitive data before it reaches an AI chatbot. It creates useful redactions while preserving the original task and scans documents locally.
-- Context-window detection and Shannon entropy
-- Evaluated on a 200-case benchmark
-- Local scanning for PDF, Word, Excel and images (OCR)
-TypeScript React FastAPI SQLite Docker
-
-Repository · Live demo
+<td align="center" width="25%">
+<h1>🥇</h1>
+<b>Top 4</b><br>
+Vishwakarandak Hackathon<br>
+<sub>24 hrs · team of 3 · 100+ teams<br>built <b>Veil</b></sub>
 </td>
-<td width="50%" valign="top">🕵️ Clinch
-Adversarially tested AI fraud-detection platform
-
-A fraud-detection platform designed to test its own blind spots. Synthetic fraud agents probe the system, and the findings feed back into its detection pipeline.
-- Layered rules + ML + anomaly + graph analysis
-- RAG/LLM reasoning and risk fusion
-- Analyst feedback and attack retesting
-Python FastAPI XGBoost scikit-learn Supabase React
-
-Repository · Live demo
+<td align="center" width="25%">
+<h1>🎓</h1>
+<b>Deutsche Bank –<br>Smile Foundation Scholar</b><br>
+<sub>Merit-based, earned on<br>JEE + MHT CET performance</sub>
+</td>
+<td align="center" width="25%">
+<h1>🥈</h1>
+<b>Silver Medalist</b><br>
+Wushu Sanda<br>
+<sub>Full-contact combat<br>Khasdar Krida Mohatsav</sub>
+</td>
+<td align="center" width="25%">
+<h1>🥋</h1>
+<b>Purple Belt</b><br>
+Taekwondo<br>
+<sub>5+ years of martial arts</sub>
 </td>
 </tr>
+</table>
+
+<!-- ═══════════════════════════ OPEN SOURCE ═══════════════════════════ -->
+
+## 🌸 Open Source &nbsp;·&nbsp; GirlScript Summer of Code 2026
+
+<table>
 <tr>
-<td colspan="2" valign="top">🏥 Beacon
-Healthcare guidance, doctor discovery & patient-record system
-
-A role-based platform for patients, doctors and nurses, featuring condition triage, emergency guidance, live appointment-slot checks and encrypted, tamper-evident patient records.
-
-The backend is built in C++17, applying OOP, design patterns, generics, queues, heaps, stacks and hash maps.
-
-C++17 OpenSSL 3 CMake REST APIs React Docker
-
-Repository · Live demo
-</td>
+<td align="center" width="33%"><h2>2</h2><b>merged PRs</b><br><sub>reviewed, polished, shipped</sub></td>
+<td align="center" width="33%"><h2>25%</h2><b>faster</b><br><sub>issue resolution</sub></td>
+<td align="center" width="33%"><h2>1</h2><b>chatbot</b><br><sub>built in React + JS and contributed back</sub></td>
 </tr>
-</table><details>
-<summary><strong>More projects</strong></summary>Project	Overview	Tools / technologies
-🍽️ CanteenEase	Canteen ordering system with real-time order tracking to reduce peak-hour waiting	HTML · CSS · JavaScript
-📚 BookHive	Flask-based library management system with authentication and SQL integration	Python · Flask · SQL
-🚦 Smart Pedestrian System	IoT pedestrian-safety solution using ESP32-CAM and sensors	ESP32 · Arduino · IoT
-🦾 4-DOF Robotic Arm	PID-controlled robotic arm designed and simulated for precise motion control	MATLAB · Simulink
-📊 Cinema Analytics Dashboard	Interactive dashboard exploring movie performance and business insights	Looker Studio
+</table>
 
+<!-- ═══════════════════════════ LEADERSHIP ═══════════════════════════ -->
 
-</details><div align="center">
-  <img src="https://64.media.tumblr.com/deee6a495e437707ee97fcee1c2075ee/6eabe8cd53a3e20b-06/s2048x3072/77ad87922d6e8fbf87869c85432b8a34428cc2e1.gifv" width="72%" alt="Decorative animated divider">
-</div>04 — Open source
-🌸 GirlScript Summer of Code 2026
-April – June 2026
+## 🧭 Leadership
 
-Contributed to open-source repositories through a student developer program, gaining experience with version control, code review and collaborative development.
-- 2 merged pull requests
-- Improved issue-resolution speed by 25%
-- Built a chatbot contributed back to the community
-05 — Experience & leadership
-Role	Organisation	Focus
-🌐 Head of Web Development	Computer Student Association (CSA)	Lead web development work, review code and coordinate deployments for club sites and student portals
-🎨 UI/UX Design Coordinator	Abhivriddhi, Student Training & Development Committee	Create event graphics, posters and branding using Figma and Canva; coordinate creative workflows
-📣 Multimedia & Sports Volunteer	Student Council, VIT Pune	Support the planning and execution of college events
+| | Role | Where | What I do |
+|:-:|---|---|---|
+| 🌐 | **Head of Web Development** | Computer Student Association (CSA) | Lead a team of developers, review code and ship club sites and student portals |
+| 🎨 | **UI/UX Design Coordinator** | Abhivriddhi, Student Training & Development Committee | Design event graphics, posters and branding in Figma and Canva |
+| 📣 | **Multimedia & Sports Volunteer** | Student Council, VIT Pune | Plan and run college-wide events |
 
+<!-- ═══════════════════════════ FOCUS ═══════════════════════════ -->
 
-06 — What I'm focused on
-- 🔭 Building AI-powered products with security and reliability in mind.
-- 📚 Strengthening my understanding of LangChain, LangGraph, system design and DSA.
-- 💼 Looking for internship opportunities in full-stack development, AI/ML and software engineering.
-07 — GitHub activity
-<div align="center"><img src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true&background=0D1117" width="85%" alt="GitHub streak">
+## 🎯 Currently
 
+```diff
++ Building AI products with security and reliability baked in
++ Levelling up on LangChain, LangGraph, system design and DSA
++ Hunting for an internship in AI/ML, full-stack or software engineering
+- Boring, unsafe, unreliable software
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="GitHub activity graph">
-<img src="https://raw.githubusercontent.com/sameera-7-hash/sameera-7-hash/gh-pages/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake"></div>08 — Let's connect
-<div align="center"><a href="mailto:sameera.1251070714@vit.edu"><img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"></a>  
-<a href="https://github.com/sameera-7-hash"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"></a>  
-<a href="https://www.linkedin.com/in/sameera-w-31385436b/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"></a>  
-<a href="https://discord.com/users/"><img src="https://cdn.simpleicons.org/discord/5865F2" width="42" alt="Discord"></a>
+<!-- ═══════════════════════════ ACTIVITY ═══════════════════════════ -->
 
-Building, learning, and growing — one commit at a time.
-</div><p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E676,100:0D1117&height=3&section=header" width="100%" alt="">
 
-</p><p align="center">
-  <img src="https://64.media.tumblr.com/9318bc687ba2738520c57197c3148456/6eabe8cd53a3e20b-8d/s2048x3072/0ba7a44b1f752273bd91e15d67d1d6711f082404.gifv" width="100%" alt="Animated divider">
+## 📊 Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sameera-7-hash&theme=tokyonight&hide_border=true&background=0D1117" width="85%" alt="GitHub streak">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameera-7-hash&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF" width="95%" alt="GitHub activity graph">
+  <br>
+  <img src="https://raw.githubusercontent.com/sameera-7-hash/sameera-7-hash/gh-pages/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake">
+</div>
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+
+## 📡 Let's Build Something
+
+<p align="center">
+  <a href="mailto:sameera.1251070714@vit.edu"><img src="https://img.shields.io/badge/EMAIL-sameera.1251070714@vit.edu-00E676?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameera-w-31385436b/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sameera-7-hash"><img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/DISCORD-starstruck__sou1-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <!-- Placeholder kept for later: <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a> -->
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=00E676&center=true&vCenter=true&width=600&lines=Building%2C+learning%2C+and+growing+%E2%80%94+one+commit+at+a+time.;%24+git+commit+-m+%22hire+sameera%22+%F0%9F%98%89" alt="Footer typing">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:0D1117&height=120&section=footer" width="100%" alt="Footer">
 </p>
